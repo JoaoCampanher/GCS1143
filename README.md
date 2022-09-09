@@ -10,7 +10,7 @@ Adapted by Neilor Tonin, URI  Brazil
   
 Write a program that reads an integer N (1 < N < 1000). This N is the number of output lines printed by this program.  
   
-Input Sample  	
+Input Sample  
 5  
   
 Output Sample  
