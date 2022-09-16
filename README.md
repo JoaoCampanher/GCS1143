@@ -23,6 +23,7 @@ Output Sample
 
 TO RUN THE PROJECT  
 git clone https://github.com/JoaoCampanher/GCS1143.git  
+cd GCS1143  
 mvn compile  
 mvn package  
 java -jar target/gs-maven-0.1.0.jar  
