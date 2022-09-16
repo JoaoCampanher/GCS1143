@@ -1,6 +1,7 @@
 # GCS1143
 João Vicente Campanher  
 João Vitor Sbroglio  
+Gustavo dos Santos Pias  
   
 https://www.beecrowd.com.br/judge/en/problems/view/1143  
   
