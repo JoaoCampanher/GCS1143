@@ -27,5 +27,8 @@ cd GCS1143
 mvn compile  
 mvn package  
 java -jar target/gs-maven-0.1.0.jar  
+  
+ Status BADGE
+ [![Java CI with Maven](https://github.com/JoaoCampanher/GCS1143/actions/workflows/maven.yml/badge.svg)](https://github.com/JoaoCampanher/GCS1143/actions/workflows/maven.yml)
 
 
