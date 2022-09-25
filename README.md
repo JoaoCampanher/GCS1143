@@ -1,5 +1,5 @@
 # GCS1143
-João Vicente Campanher  
+João Vicente Fonseca Campanher  
 João Vitor Sbroglio  
 Gustavo dos Santos Pias  
   
