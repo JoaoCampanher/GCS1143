@@ -30,7 +30,6 @@ java -jar target/gs-maven-0.1.0.jar
   
   
  [![Java CI with Maven](https://github.com/JoaoCampanher/GCS1143/actions/workflows/maven.yml/badge.svg)](https://github.com/JoaoCampanher/GCS1143/actions/workflows/maven.yml)  
-   
  [![CodeQL](https://github.com/JoaoCampanher/GCS1143/actions/workflows/codeql.yml/badge.svg)](https://github.com/JoaoCampanher/GCS1143/actions/workflows/codeql.yml)
 
 
