@@ -1,19 +1,20 @@
 package hello;
- import static org.junit.Assert.assertEquals;
+
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
 public class CalculatorTest {
+
+    Calculator calculator = new Calculator();
+
     @Test
     public void testGetSecond() {
-        Calculator app = new Calculator();
-        int result = app.getSecond(9);
-        assertEquals(81, result);
+        assertEquals(81, calculator.getSecond(9));
     }
 
     @Test
     public void testGetThird() {
-        Calculator app = new Calculator();
-        int result = app.getThird(4);
-        assertEquals(64, result);
+        assertEquals(64, calculator.getThird(4));
     }
 }
